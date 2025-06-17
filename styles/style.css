@@ -64,7 +64,6 @@ main {
   font-weight: 700;
   font-size: 99px;
   line-height: 114.99999999999999%;
-  letter-spacing: 30%;
   text-transform: uppercase;
   display: grid;
   grid-template-rows: repeat(3, auto);
