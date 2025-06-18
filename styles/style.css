@@ -303,11 +303,11 @@ button {
   line-height: 120%;
 }
 
-.about__paragraph_first {
+.about__paragraph_intro {
   width: 680px;
 }
 
-.about__paragraph_second {
+.about__paragraph_details {
   width: 693px;
 }
 
@@ -318,6 +318,7 @@ button {
   width: 100%;
   max-width: 1100px;
   margin-top: 180px;
+  margin-bottom: 82px;
   height: auto;
 }
 
